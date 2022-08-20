@@ -1,3 +1,4 @@
 # jenkins-sonar
 
-more practice 
+more practice
+and even more practice is good for learning DevOps 
